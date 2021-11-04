@@ -1,0 +1,6 @@
+C:\Users\Joanna\Desktop\c++\reverse_sharp\bin\Debug\reverse_sharp.exe.config
+C:\Users\Joanna\Desktop\c++\reverse_sharp\bin\Debug\reverse_sharp.exe
+C:\Users\Joanna\Desktop\c++\reverse_sharp\bin\Debug\reverse_sharp.pdb
+C:\Users\Joanna\Desktop\c++\reverse_sharp\obj\Debug\reverse_sharp.csprojResolveAssemblyReference.cache
+C:\Users\Joanna\Desktop\c++\reverse_sharp\obj\Debug\reverse_sharp.exe
+C:\Users\Joanna\Desktop\c++\reverse_sharp\obj\Debug\reverse_sharp.pdb
