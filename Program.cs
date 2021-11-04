@@ -11,12 +11,12 @@ namespace reverse_sharp
         static void Main(string[] args)
         {
             string tekst = Console.ReadLine();
-            string[] words = tekst.Split(' ');      //do tablicy words zapisujemy słowa jako elementy
+            string[] words = tekst.Split(' ');      //do tablicy words zapisujemy slowa jako elementy
             
             foreach(string word in words)
             {
-                char[] slowo = word.ToCharArray();      //poszczegolne słowa zapisujemy jako tablice charów zamiast string
-                Array.Reverse(slowo);                   //odwracamy kolejność elementów tablicy (odwracamy słowo)
+                char[] slowo = word.ToCharArray();      //poszczegolne slowa zapisujemy jako tablice charow zamiast string
+                Array.Reverse(slowo);                   //odwracamy kolejnosc elementow tablicy (odwracamy slowo)
                 Console.Write(slowo);
                 Console.Write(" ");
             }
